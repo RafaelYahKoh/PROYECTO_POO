@@ -10,12 +10,11 @@ namespace ProyectoProgramacion
     {
         public void cuadro(int height, int width, int x, int y)
         {
-            for (int i = 0; i < height; i++)
+          for (int i = 0; i < height; i++)
             {
                 for (int j = 0; j < width; j++)
                 {
-                    Console.SetCursorPosition(x + j, y + i);
-                    Console.WriteLine("█");
+                    Console.SetCursorPosition(x + j, y + i);                    Console.WriteLine("█");
                 }
             }
         }

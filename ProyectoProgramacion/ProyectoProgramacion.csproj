@@ -41,10 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="admin.cs" />
+    <Compile Include="alumno.cs" />
     <Compile Include="cuadros.cs" />
     <Compile Include="main.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="registro.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

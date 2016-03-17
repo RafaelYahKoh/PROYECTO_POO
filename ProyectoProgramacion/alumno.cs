@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoProgramacion
 {
-    class Program
+    class alumno
     {
-        static void Main(string[] args)
-        {
-            main m = new main();
-            m.Menu();
-        }
     }
 }
