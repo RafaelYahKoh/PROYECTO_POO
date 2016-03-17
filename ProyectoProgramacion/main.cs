@@ -71,6 +71,7 @@ namespace ProyectoProgramacion
             marco();
             Console.BackgroundColor = ConsoleColor.Black;
             title();
+            
             //TERMINA LA CONFIGURACION DE LA VENTANA
 
             //AQUI INICIA EL CUADRO DE AVISO
@@ -102,6 +103,8 @@ namespace ProyectoProgramacion
             for (int k = 0; ;)
             {
                 opciones(k);
+                Console.CursorVisible = false;
+
                 ConsoleKeyInfo cki = Console.ReadKey(true);
                 switch (cki.Key)
                 {
