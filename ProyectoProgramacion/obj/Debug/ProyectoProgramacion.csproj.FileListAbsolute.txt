@@ -1,0 +1,12 @@
+C:\Users\Administrador\Desktop\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+C:\Users\Administrador\Desktop\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+C:\Users\Administrador\Desktop\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+C:\Users\Administrador\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+C:\Users\Administrador\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+C:\Users\YK\Desktop\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe.config
+C:\Users\YK\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.exe
+C:\Users\YK\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.pdb
+C:\Users\YK\Desktop\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.exe
+C:\Users\YK\Desktop\ProyectoProgramacion\ProyectoProgramacion\bin\Debug\ProyectoProgramacion.pdb
+C:\Users\YK\Desktop\ProyectoProgramacion\ProyectoProgramacion\obj\Debug\ProyectoProgramacion.csprojResolveAssemblyReference.cache
